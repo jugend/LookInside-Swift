@@ -10,7 +10,6 @@
 		CA0D5EC81A2D5B4000F20733 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA0D5EC71A2D5B4000F20733 /* AppDelegate.swift */; };
 		CA0D5ECF1A2D5B4000F20733 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CA0D5ECE1A2D5B4000F20733 /* Images.xcassets */; };
 		CA0D5EDE1A2D5B4000F20733 /* LookInsideTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA0D5EDD1A2D5B4000F20733 /* LookInsideTests.swift */; };
-		CA1D4B531A2F1A11002C80AA /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = CA1D4B521A2F1A11002C80AA /* README.md */; };
 		CA79E5D11A2D5C2B00E6AF02 /* PhotoCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA79E5D01A2D5C2B00E6AF02 /* PhotoCollectionViewCell.swift */; };
 		CA8B21081A2D60A600D12F1D /* RootViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA8B21071A2D60A600D12F1D /* RootViewController.swift */; };
 		CA8B210A1A2D60AF00D12F1D /* OverlayViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA8B21091A2D60AF00D12F1D /* OverlayViewController.swift */; };
@@ -39,7 +38,6 @@
 		CA0D5ED71A2D5B4000F20733 /* LookInsideTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LookInsideTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CA0D5EDC1A2D5B4000F20733 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CA0D5EDD1A2D5B4000F20733 /* LookInsideTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LookInsideTests.swift; sourceTree = "<group>"; };
-		CA1D4B521A2F1A11002C80AA /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		CA79E5D01A2D5C2B00E6AF02 /* PhotoCollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhotoCollectionViewCell.swift; sourceTree = "<group>"; };
 		CA8B21071A2D60A600D12F1D /* RootViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RootViewController.swift; sourceTree = "<group>"; };
 		CA8B21091A2D60AF00D12F1D /* OverlayViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OverlayViewController.swift; sourceTree = "<group>"; };
@@ -48,6 +46,7 @@
 		CA8B210F1A2D60FA00D12F1D /* CoolTransitioner.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CoolTransitioner.swift; sourceTree = "<group>"; };
 		CA8B21111A2D610800D12F1D /* CoolPresentationController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CoolPresentationController.swift; sourceTree = "<group>"; };
 		CAC0A8851A2F23C900819C80 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = Base; path = Base.lproj/Localizable.strings; sourceTree = "<group>"; };
+		CAF1BE811A2F2BA9001A90DA /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +73,7 @@
 				CA0D5EC41A2D5B4000F20733 /* LookInside */,
 				CA0D5EDA1A2D5B4000F20733 /* LookInsideTests */,
 				CA0D5EC31A2D5B4000F20733 /* Products */,
+				CAF1BE811A2F2BA9001A90DA /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
@@ -95,7 +95,6 @@
 				CA79E5D21A2D5F4800E6AF02 /* Helpers */,
 				CA0D5ECE1A2D5B4000F20733 /* Images.xcassets */,
 				CA0D5EC51A2D5B4000F20733 /* Supporting Files */,
-				CA1D4B521A2F1A11002C80AA /* README.md */,
 			);
 			path = LookInside;
 			sourceTree = "<group>";
@@ -259,7 +258,6 @@
 				CA0D5EC81A2D5B4000F20733 /* AppDelegate.swift in Sources */,
 				CA8B210C1A2D60BD00D12F1D /* OverlayTransitioner.swift in Sources */,
 				CA8B210A1A2D60AF00D12F1D /* OverlayViewController.swift in Sources */,
-				CA1D4B531A2F1A11002C80AA /* README.md in Sources */,
 				CA8B21081A2D60A600D12F1D /* RootViewController.swift in Sources */,
 				CA79E5D11A2D5C2B00E6AF02 /* PhotoCollectionViewCell.swift in Sources */,
 			);
